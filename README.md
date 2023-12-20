@@ -5,3 +5,8 @@ dumna airport was my friends topic, i made it with my friend in last hours so it
 for maruthi showrooms we used text data file and binnary data file
 dumna airport is simple mysql & python connectivity 
 ^_^
+
+
+update
+
+a slight changes has been made in this program
